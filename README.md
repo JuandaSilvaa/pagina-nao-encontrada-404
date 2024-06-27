@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Página Não Encontrada 404 é uma página de erro que informa ao usuário que a página solicitada não foi encontrada. A estilização e a animação proporcionam uma experiência visual agradável e interativa.
 
-- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io//)
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/pagina-nao-encontrada-404/)
 
 ## 🔍 Destaques do Aprendizado
 
